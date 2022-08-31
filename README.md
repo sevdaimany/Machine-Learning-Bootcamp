@@ -1,4 +1,4 @@
-# Machine Learning Bootcamp Course Materials
+# 📚 Machine Learning Bootcamp Course Materials
 
 Become a Data Scientist! 
 
