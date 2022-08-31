@@ -27,4 +27,4 @@ This course covers various materials such as:
 
 
 
-<img src="https://github.com/sevdaimany/Machine-Learning-Bootcamp/blob/master/hermes.jpg" width="100" />
+<img src="https://github.com/sevdaimany/Machine-Learning-Bootcamp/blob/master/hermes.jpg" width="300" />
